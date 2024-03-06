@@ -32,3 +32,11 @@
 *://*.camerareviews.com/*
 *://*.code-examples.net/*
 *://*.mynavi.jp/*
+*://ichigick.com/*
+*://www.sejuku.net/*
+*://web-camp.io/*
+*://magazine.techacademy.jp/*
+*://www.fenet.jp/*
+*://*.click/*
+*://*.wiki/*
+*://*.online/*
